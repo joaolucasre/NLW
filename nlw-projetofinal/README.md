@@ -5,7 +5,7 @@
 
 Projeto construído do evendo Next Level Week da Rocketseat.
 
-[ 🖱 Clique aqui para acessar](https://joaolucasre.github.io/nlw-projetofinal/)
+[ 🖱 Clique aqui para acessar](https://joaolucasre.github.io/NLW-alternative/)
 
 ## 💻 Tecnologias
 
