@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NLW eSports - Trilha Explorer
 ![preview2](./preview2.png)
 
@@ -15,3 +14,5 @@ Projeto construído do evendo Next Level Week da Rocketseat.
 - Git e Github
 
 ##  📞  Contato
+
+@oliveirajoaolucasr@gmail.com
