@@ -15,3 +15,5 @@ Projeto construído do evendo Next Level Week da Rocketseat.
 - Git e Github
 
 ##  📞  Contato
+
+oliveirajoaolucasr@gmail.com
